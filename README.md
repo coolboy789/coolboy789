@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Tek Awasthi
 
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer  
 
@@ -7,10 +7,6 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **[Your Current Project]**  
 - 🌱 I’m learning **Next.js, DevOps, and AI integrations**  
-- 👯 I’m looking to collaborate on **open-source projects**  
-- 💬 Ask me about **JavaScript, React, Node.js, Databases**  
-- ⚡ Fun fact: I debug better with coffee ☕  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -43,23 +39,23 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolboy789&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=coolboy789&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolboy789&layout=compact&theme=radical)
 
 ---
 
 ## 🚀 Featured Projects
 
-- [🌍 Portfolio Website](https://github.com/YourUsername/portfolio) – Built with React & Tailwind  
-- [📊 Task Manager API](https://github.com/YourUsername/task-manager-api) – Node.js, Express, MongoDB  
-- [🤖 Chatbot](https://github.com/YourUsername/chatbot) – Python, NLP, Flask  
+- [🌍 Portfolio Website](https://github.com/coolboy789/portfolio) – Built with React & Tailwind  
+- [📊 Task Manager API](https://github.com/coolboy789/task-manager-api) – Node.js, Express, MongoDB  
+- [🤖 Chatbot](https://github.com/coolboy/chatbot) – Python, NLP, Flask  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/tek-awasthi)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&style=flat-square)](https://yourportfolio.com)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/yourhandle)  
 
